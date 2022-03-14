@@ -1,0 +1,13 @@
+[[spawns]]
+id = 1
+x = 3222
+y = 3222
+plane = 0
+direction = "SOUTH"
+
+[[spawns]]
+id = 0
+x = 3222
+y = 3222
+plane = 0
+direction = "SOUTH"

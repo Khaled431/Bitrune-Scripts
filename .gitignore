@@ -1,0 +1,6 @@
+.gradle
+.idea
+
+build/
+
+game-plugins/src/main/resources/paths.toml
